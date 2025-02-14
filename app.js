@@ -12,6 +12,11 @@ function agregarAmigo() {
         return;
     }
 
+    if (amigos.includes(nombre)) { // Verificamos si el nombre ya está en la lista
+        alert("El nombre ya fue añadido.");
+        return;
+    }
+
     amigos.push(nombre); // Agregamos el nombre al array
     input.value = ""; // Limpiamos el campo de entrada
     actualizarLista(); // Mostramos la lista actualizada
