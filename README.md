@@ -1,10 +1,10 @@
 # Proyecto Amigo secreto
 
-## Descripción principal
+## Descripción principal 📜
 
 Este proyecto se realizó como proyecto final en la materia **Introducción a Lógica de Programación en JavaScript** del curso **ONE** de **ALURA LATAM**, en conjunto con **ORACLE EDUCATION**.
 
-## Descripción general
+## Descripción general 💡
 
 El proyecto consta de los siguientes archivos:
 
@@ -12,7 +12,7 @@ El proyecto consta de los siguientes archivos:
 - **`index.html`**: Es el esqueleto de la página web. Contiene la estructura básica y el contenido principal, como textos, imágenes y otros elementos. Es el punto de partida para construir la página web.
 - **`app.js`**: Contiene el código JavaScript que añade interactividad a la página. En este archivo se han agregado funciones que permiten la interacción del usuario con la página web, haciéndola dinámica e intuitiva.
 
-## Objetivo del proyecto
+## Objetivo del proyecto 📔 
 
 Este proyecto consiste en el desarrollo de un juego en el que el usuario debe introducir los nombres de sus amigos y amigas, uno por uno. Luego, mediante un sorteo aleatorio, se selecciona a uno de los amigos de la lista. No hay límite en la cantidad de amistades que se pueden agregar, y la persona seleccionada aparecerá en la consola resaltada en verde.
 
@@ -20,10 +20,11 @@ Este proyecto consiste en el desarrollo de un juego en el que el usuario debe in
 
 ---------------
 
-## Estado del proyecto
+## Estado del proyecto 👓
+
    ![Badge Finalizado](https://img.shields.io/badge/STATUS-%20FINALIZADO-GREEN)
 
-## Descripción del código y funcionalidad
+## Descripción del código y funcionalidad ⚙️
 
 - Hay dos botones en la interfaz:
   - **`Añadir`**: Permite ingresar los nombres de las personas que participarán en el sorteo.
@@ -67,7 +68,7 @@ Si hay dos o más personas con el mismo nombre deben colocar alguna letra extra 
 
 -----------------
 
-## Acceso al proyecto
+## Acceso al proyecto 🛠️
 
 Para ejecutar y/o modificar el proyecto:
 
@@ -93,7 +94,7 @@ Luego abre el archivo `index.html` con ella haciendo click derecho sobre el arch
 
 -----------------
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas 💻
 
 - **JavaScript**
 - **css**
@@ -101,7 +102,7 @@ Luego abre el archivo `index.html` con ella haciendo click derecho sobre el arch
 - **Visual Studio Code (VSCode)**
 - **Navegador Google Chrome**
 
-## Material consultado
+## Material consultado 🖇️
 - https://www.w3schools.com/Jsref/jsref_trim_string.asp
 - https://stackoverflow.com/questions/6855773/how-to-get-events-associated-with-dom-elements
 - https://www.w3schools.com/jsref/dom_obj_event.asp
@@ -113,9 +114,14 @@ Luego abre el archivo `index.html` con ella haciendo click derecho sobre el arch
 - https://www.aluracursos.com/blog/github-pages
 - https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
-## Personas contribuyentes y desarrolladores
+## Contribuyentes y desarrolladores ✒️
 
-La cátedra integrada por los profesores Leonardo Castillo Lacruz y Christian Velasco, proporcionó los archivos base: `style.css` e `index.html`. El archivo `app.js` fue desarrollado y documentado por **mí** siguiendo las normativas sobre la presentación del trabajo final.
+La cátedra, compuesta por los profesores Leonardo Castillo Lacruz, Christian Velasco, Ellen Pimentel, José Darío González Charris y Bárbara Santos, me brindó los archivos base: style.css e index.html. Asimismo, fueron ellos quienes me instruyeron en el uso de tecnologías clave como JavaScript, ChatGPT, Git & GitHub, HTML5 y CSS3. El archivo app.js fue desarrollado y documentado por mí, siguiendo las normativas establecidas para la presentación del trabajo final.
 
-| [<img src="https://avatars.githubusercontent.com/u/4803845?v=4" width=115><br><sub>Leonardo Castillo Lacruz</sub>](https://github.com/ljcl79) |  [<img src="https://avatars.githubusercontent.com/u/29123800?v=4" width=115><br><sub>Christian Velasco</sub>](https://github.com/christianpva) | [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>](https://github.com/Ellen-code) | [<img src="https://avatars.githubusercontent.com/u/75937414?v=4" width=115><br><sub>Jose Dario Gonzalez Charris</sub>](https://github.com/JoseDarioGonzalezCha) |  [<img src="https://avatars.githubusercontent.com/u/110127199?v=4" width=115><br><sub>Cintia B. Enfarrell Crisie</sub>](https://github.com/CintiaBEC) |
-| :---: | :---: | :---: |:---: |:---: |
+| [<img src="https://avatars.githubusercontent.com/u/4803845?v=4" width=115><br><sub>Leonardo Castillo Lacruz</sub>](https://github.com/ljcl79) |  [<img src="https://avatars.githubusercontent.com/u/29123800?v=4" width=115><br><sub>Christian Velasco</sub>](https://github.com/christianpva) | [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>](https://github.com/Ellen-code) | [<img src="https://avatars.githubusercontent.com/u/75937414?v=4" width=115><br><sub>Jose Dario Gonzalez Charris</sub>](https://github.com/JoseDarioGonzalezCha) | [<img src="https://avatars.githubusercontent.com/u/88200400?v=4" width=115><br><sub>Bárbara Santos</sub>](https://github.com/bacristiane) | [<img src="https://avatars.githubusercontent.com/u/110127199?v=4" width=115><br><sub>Cintia B. Enfarrell Crisie</sub>](https://github.com/CintiaBEC) |
+| :---: | :---: | :---: |:---: |:---: |:---: |
+
+## Agradecimietos ✨
+
+Quiero expresar mi más sincero agradecimiento a los profesores responsables de la formación *'Principiante en Programación G8 - ONE'* por compartir su valioso conocimiento. Gracias a su orientación, pude ampliar mi visión sobre el impacto que las tecnologías actuales tienen en nuestra vida y comprender su importancia en mi desarrollo profesional y personal.
+
