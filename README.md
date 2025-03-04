@@ -110,6 +110,8 @@ https://www.aluracursos.com/blog/como-utilizar-operadores-de-comparacion-en-java
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
 https://www.aluracursos.com/blog/como-trabajar-con-markdown
 https://devhints.io/git-log
+https://www.aluracursos.com/blog/github-pages
+https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 ## Personas contribuyentes y desarrolladores
 
