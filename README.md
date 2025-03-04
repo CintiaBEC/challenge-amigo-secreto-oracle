@@ -102,16 +102,16 @@ Luego abre el archivo `index.html` con ella haciendo click derecho sobre el arch
 - **Navegador Google Chrome**
 
 ## Material consultado
-https://www.w3schools.com/Jsref/jsref_trim_string.asp
-https://stackoverflow.com/questions/6855773/how-to-get-events-associated-with-dom-elements
-https://www.w3schools.com/jsref/dom_obj_event.asp
-https://www.aluracursos.com/blog/guia-de-javascript
-https://www.aluracursos.com/blog/como-utilizar-operadores-de-comparacion-en-javascript
-https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
-https://www.aluracursos.com/blog/como-trabajar-con-markdown
-https://devhints.io/git-log
-https://www.aluracursos.com/blog/github-pages
-https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site
+- https://www.w3schools.com/Jsref/jsref_trim_string.asp
+- https://stackoverflow.com/questions/6855773/how-to-get-events-associated-with-dom-elements
+- https://www.w3schools.com/jsref/dom_obj_event.asp
+- https://www.aluracursos.com/blog/guia-de-javascript
+- https://www.aluracursos.com/blog/como-utilizar-operadores-de-comparacion-en-javascript
+- https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+- https://www.aluracursos.com/blog/como-trabajar-con-markdown
+- https://devhints.io/git-log
+- https://www.aluracursos.com/blog/github-pages
+- https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 ## Personas contribuyentes y desarrolladores
 
